@@ -1,0 +1,11 @@
+# 示例：保留所有 ViewBinding 生成的类
+-keep class * extends androidx.viewbinding.ViewBinding {
+    *;
+}
+
+# 示例：保留 Gson 解析的模型类
+-keep class bbs.yuchen.icu.DialogLauncher.** { *; }
+
+# 保留 Android 四大组件
+-keep public class * extends bbs.yuchen.icu.DialogLauncher
+-keep public class * extends android.app.Service

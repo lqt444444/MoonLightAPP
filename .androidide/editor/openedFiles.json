@@ -1,0 +1,65 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/YuChenMy Application5/app/src/69.zip",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        },
+        "start": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/YuChenMy Application5/app/src/main/java/bbs/yuchen/icu/DialogLauncher.java",
+      "selection": {
+        "end": {
+          "column": 18,
+          "index": 643,
+          "line": 16
+        },
+        "start": {
+          "column": 18,
+          "index": 643,
+          "line": 16
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/YuChenMy Application5/app/src/main/java/bbs/yuchen/icu/Moonlight.java",
+      "selection": {
+        "end": {
+          "column": 1,
+          "index": 156353,
+          "line": 3211
+        },
+        "start": {
+          "column": 1,
+          "index": 156353,
+          "line": 3211
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/YuChenMy Application5/app/src/main/java/bbs/yuchen/icu/Moonlight2.java",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        },
+        "start": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/YuChenMy Application5/app/src/main/java/bbs/yuchen/icu/DialogLauncher.java"
+}

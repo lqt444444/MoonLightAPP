@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PromptTemplates">
+    <option name="builtInPromptOverrides">
+      <list>
+        <BuiltInPromptOverride>
+          <option name="groupId" value="rules" />
+          <option name="promptId" value="project" />
+          <option name="text" value=" in editor 请永远使用中文，你在开发一个Java项目，如果我开头加M 那么你就要使用你的API通过对Android studio提供的，对我的代码进行修改，我是计算机新手，还请照顾我" />
+        </BuiltInPromptOverride>
+      </list>
+    </option>
+  </component>
+</project>
